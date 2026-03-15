@@ -29,14 +29,23 @@ The project uses SQL queries to update missing data, correct inaccurate values a
 - Historically, which World Cup had the highest number of goals?
 
 ## 📊 Results/ Insights
-1. [Host Resultds](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Host%20results.png)
+**1. Host Results**
+ 
+![Host Results](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Host%20results.png)
+
 Short summary: Historically, host nations finished in the top four in **59% of World Cups (13 out of 22)**.
 However, **Qatar finished outside the top four**, performing worse than most host countries.
 
-2. [Poland Performance](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Poland%20performance.png)
+**2. Poland Performance**
+
+![Poland Performance](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Poland%20performance.png)
+
 Short summary: Poland reached the **Round of 16**, where they lost **1–3 to France**.
 
-3. [Goals Analysis](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Goal%20analysis.png)
+**3. Goals Analysis**
+
+![Goals Analysis](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Goal%20analysis.png)
+
 Short summary: The average number of goals scored in World Cups is **123.64**.
 The **Qatar 2022 World Cup recorded 172 goals**, the highest number in Wold Cup history.
 
