@@ -49,6 +49,8 @@ Short summary: Poland reached the **Round of 16**, where they lost **1–3 to Fr
 Short summary: The average number of goals scored in World Cups is **123.64**.
 The **Qatar 2022 World Cup recorded 172 goals**, the highest number in Wold Cup history.
 
-Detailed code and queries can be found in the SQL scripts included in this repository.
+---------
+
+All code, distinct queries, as well as more detailed answers and in-depth analysis can be found in the SQL scripts included in this repository.
 
 Thank you for reading and checking out my project!
