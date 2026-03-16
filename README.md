@@ -31,20 +31,20 @@ The project uses SQL queries to update missing data, correct inaccurate values a
 ## 📊 Results/ Insights
 **1. Host Results**
  
-![Host Results](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Host%20results.png)
+![Host Results](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Results%20Preview/Host%20Results.png)
 
 Short summary: Historically, host nations finished in the top four in **59% of World Cups (13 out of 22)**.
 However, **Qatar finished outside the top four**, performing worse than most host countries.
 
 **2. Poland Performance**
 
-![Poland Performance](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Poland%20performance.png)
+![Poland Performance](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Results%20Preview/Poland%20Performance.png)
 
 Short summary: Poland reached the **Round of 16**, where they lost **1–3 to France**.
 
 **3. Goals Analysis**
 
-![Goals Analysis](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Goal%20analysis.png)
+![Goals Analysis](https://github.com/radektadla/2022-FIFA-World-Cup-Analysis/blob/main/Results%20Preview/Goal%20Analysis.png)
 
 Short summary: The average number of goals scored in World Cups is **123.64**.
 The **Qatar 2022 World Cup recorded 172 goals**, the highest number in Wold Cup history.
